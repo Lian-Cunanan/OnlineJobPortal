@@ -125,7 +125,7 @@ header("location:../");
 				<div class="container">
 				
 					<ol class="breadcrumb-list booking-step">
-						<li><a href="../">Nightingale Jobs</a></li>
+						<li><a href="../">HIre Me</a></li>
 						<li><span>Profile</span></li>
 					</ol>
 					

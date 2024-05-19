@@ -94,7 +94,7 @@ $page = 1;
 					
 					<div class="logo-wrapper">
 						<div class="logo">
-							<a href="../"><img src="../images/logo.png" alt="Logo" /></a>
+							<a href="../"><img src="../images/main-logo.png" alt="Logo" /></a>
 						</div>
 					</div>
 					
@@ -192,11 +192,7 @@ $page = 1;
 										
 									</div>
 									
-									<div class="admin-user-action text-center">
-									
-										<a target="_blank" href="my_cv" class="btn btn-primary btn-sm btn-inverse">View my CV</a>
-										
-									</div>
+								
 									
 									<ul class="admin-user-menu clearfix">
 										<li>

@@ -93,7 +93,7 @@ $page = 1;
 					
 					<div class="logo-wrapper">
 						<div class="logo">
-							<a href="../"><img src="../images/logo.png" alt="Logo" /></a>
+							<a href="../"><img src="../images/main-logo.png" alt="Logo" /></a>
 						</div>
 					</div>
 					
@@ -188,12 +188,6 @@ $page = 1;
 										
 										<h4><?php echo "$myfname"; ?> <?php echo "$mylname"; ?></h4>
 										<p class="user-role"><?php echo "$mytitle"; ?></p>
-										
-									</div>
-									
-									<div class="admin-user-action text-center">
-									
-										<a target="_blank" href="my_cv" class="btn btn-primary btn-sm btn-inverse">View my CV</a>
 										
 									</div>
 									
@@ -540,8 +534,8 @@ $page = 1;
 									<div class="col-sm-6 col-md-4">
 									
 										<div class="footer-about-us">
-											<h5 class="footer-title">About Bwire Jobs</h5>
-											<p>Bwire Jobs is a job portal, online job management system developed by Bwire C Mashauri in february 2018.</p>
+											<h5 class="footer-title">About Hire Me</h5>
+											<p>Hire Me is a job portal, online job management system developed by BScpe 2-A for his project in february 2018.</p>
 										
 										</div>
 
@@ -550,11 +544,11 @@ $page = 1;
 									<div class="col-sm-6 col-md-5 mt-30-xs">
 										<h5 class="footer-title">Quick Links</h5>
 										<ul class="footer-menu clearfix">
-											<li><a href="../">Home</a></li>
-											<li><a href="../job-list.php">Job List</a></li>
-											<li><a href="../employers.php">Employers</a></li>
-											<li><a href="../employees.php">Employees</a></li>
-											<li><a href="../contact.php">Contact Us</a></li>
+											<li><a href="./">Home</a></li>
+											<li><a href="job-list.php">Job List</a></li>
+											<li><a href="employers.php">Employers</a></li>
+											<li><a href="employees.php">Employees</a></li>
+											<li><a href="contact.php">Contact Us</a></li>
 											<li><a href="#">Go to top</a></li>
 
 										</ul>
@@ -567,11 +561,11 @@ $page = 1;
 							
 							<div class="col-sm-12 col-md-3 mt-30-sm">
 							
-								<h5 class="footer-title">Bwire Jobs Contact</h5>
+								<h5 class="footer-title">Hire Me Contact</h5>
 								
-								<p>Address : Dar es salaam, Tanzania PO.BOX 14859</p>
-								<p>Email : <a href="mailto:mashauri@programmer.net">mashauri@programmer.net</a></p>
-								<p>Phone : <a href="tel:+255689938643">+255 689 938 643</a></p>
+								<p>Address : Don Honorio Ventura State university</p>
+								<p>Email : <a href="Bscpe2-A@gmail.com">Bscpe2-A@gmail.com</a></p>
+								<p>Phone : <a href="tel:+233546607474">+233 546 607 474</a></p>
 								
 
 							</div>
@@ -591,14 +585,14 @@ $page = 1;
 						
 							<div class="col-sm-4 col-md-4">
 					
-								<p class="copy-right">&#169; Copyright <?php echo date('Y'); ?> BwireSoft</p>
+								<p class="copy-right">&#169; Copyright <?php echo date('Y'); ?> HireCity </p>
 								
 							</div>
 							
 							<div class="col-sm-4 col-md-4">
 							
 								<ul class="bottom-footer-menu">
-									<li><a >Developed by Bwire Charles Mashauri</a></li>
+									<li><a >Developed by Bscpe 2-A</a></li>
 								</ul>
 							
 							</div>

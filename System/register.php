@@ -219,8 +219,8 @@ include 'constants/check-login.php';
 									<div class="col-sm-6 col-md-4">
 									
 										<div class="footer-about-us">
-											<h5 class="footer-title">About HireCity</h5>
-											<p>HireCity is a job portal, online job management system developed by Nathaniel Nkrumah for his project in february 2018.</p>
+											<h5 class="footer-title">About Hire Me</h5>
+											<p>Hire Me is a job portal, online job management system developed by BScpe 2-A for his project in february 2018.</p>
 										
 										</div>
 
@@ -246,10 +246,10 @@ include 'constants/check-login.php';
 							
 							<div class="col-sm-12 col-md-3 mt-30-sm">
 							
-								<h5 class="footer-title">HireCity Contact</h5>
+								<h5 class="footer-title">Hire Me Contact</h5>
 								
-								<p>Address : Takoradi, School Junction PO.BOX AX40</p>
-								<p>Email : <a href="mailto:nightingale.nath2@gmail.com">nightingale.nath2@gmail.com</a></p>
+								<p>Address : Don Honorio Ventura State university</p>
+								<p>Email : <a href="Bscpe2-A@gmail.com">Bscpe2-A@gmail.com</a></p>
 								<p>Phone : <a href="tel:+233546607474">+233 546 607 474</a></p>
 								
 
@@ -270,14 +270,14 @@ include 'constants/check-login.php';
 						
 							<div class="col-sm-4 col-md-4">
 					
-								<p class="copy-right">&#169; Copyright <?php echo date('Y'); ?> Nightingale Vision Software</p>
+								<p class="copy-right">&#169; Copyright <?php echo date('Y'); ?> HireCity </p>
 								
 							</div>
 							
 							<div class="col-sm-4 col-md-4">
 							
 								<ul class="bottom-footer-menu">
-									<li><a >Developed by Nathaniel Nkrumah</a></li>
+									<li><a >Developed by Bscpe 2-A</a></li>
 								</ul>
 							
 							</div>
@@ -299,6 +299,9 @@ include 'constants/check-login.php';
 			</footer>
 			
 		</div>
+
+
+	</div>
 
 
 	</div> 
