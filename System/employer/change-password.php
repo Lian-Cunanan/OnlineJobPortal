@@ -67,7 +67,7 @@ header("location:../");
 					
 					<div class="logo-wrapper">
 						<div class="logo">
-							<a href="../"><img src="../images/logo.png" alt="Logo" /></a>
+							<a href="./"><img src="main-logo copy.png" alt="Logo" /></a>
 						</div>
 					</div>
 					

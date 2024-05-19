@@ -70,7 +70,7 @@ header("location:../");
 					
 					<div class="logo-wrapper">
 						<div class="logo">
-							<a href="../"><img src="../images/logo.png" alt="Logo" /></a>
+							<a href="./"><img src="main-logo copy.png" alt="Logo" /></a>
 						</div>
 					</div>
 					
@@ -516,6 +516,7 @@ header("location:../");
 
 
 	</div>
+
 
 <div id="back-to-top">
    <a href="#"><i class="ion-ios-arrow-up"></i></a>
