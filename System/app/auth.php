@@ -1,5 +1,5 @@
 <?php
-date_default_timezone_set('Africa/Dar_es_salaam');
+date_default_timezone_set('Asia/Manila');
 $last_login = date('d-m-Y h:m A [T P]');
 require '../constants/db_config.php';
 $myemail = $_POST['email'];

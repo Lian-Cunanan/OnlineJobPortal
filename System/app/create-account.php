@@ -1,5 +1,6 @@
 <?php
-date_default_timezone_set('Africa/Dar_es_salaam');
+date_default_timezone_set('Asia/Manila');
+
 
 if (isset($_POST['reg_mode'])) {
 checkemail();	
