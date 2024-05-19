@@ -261,9 +261,7 @@ include 'constants/check-login.php';
 
 <div class="modal-footer text-center">
 <button type="submit" class="btn btn-primary">Login</button>
-</div>
-										
-</div>
+
 </form>
 
 							  			<div id="forgotPasswordModal" class="modal fade login-box-wrapper" tabindex="-1" style="display: none;" data-backdrop="static" data-keyboard="false" data-replace="true">
