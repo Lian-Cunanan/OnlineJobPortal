@@ -56,6 +56,10 @@
 <input class="form-control" placeholder="Re-type password again" name="confirmpassword" required type="password"> 
 </div>
 
+<div class="terms" id=terms>
+    <a href="terms.php" target="_blank">Accepts Terms and condition</a>
+</div>
+
 <label><strong>Enter Captcha:</strong></label><br />
 <input type="text" name="captcha" required/>
 <p><br /><img src="constants/captcha.php?rand=<?php echo rand(); ?>" id='captcha_image'></p>
@@ -83,3 +87,4 @@ function refreshCaptcha(){
     img.src = img.src.substring(0,img.src.lastIndexOf("?"))+"?rand="+Math.random()*1000;
 }
 </script>
+
