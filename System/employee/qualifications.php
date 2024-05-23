@@ -240,7 +240,7 @@ $page = 1;
 
 									<div class="admin-section-title">
 									
-										<h2>Professional Qualifications</h2>
+										
 					
 										
 									</div>

@@ -239,7 +239,7 @@ $page = 1;
 
 									<div class="admin-section-title">
 									
-										<h2>Applied Jobs</h2>
+										<h2 style="text-transform: uppercase;">Applied Jobs</h2>
 					
 										
 									</div>

@@ -194,7 +194,7 @@ $page = 1;
 					<div class="sorting-wrappper">
 			
 						<div class="sorting-header">
-							<h3 class="sorting-title">Employees</h3>
+							<h3 class="sorting-title">EMPLOYEES</h3>
 						</div>
 						
 		

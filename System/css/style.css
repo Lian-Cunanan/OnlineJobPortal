@@ -5897,3 +5897,8 @@ ul.static-page-menu li.active a {
 }
 
 @media (max-width: 479px) {}
+
+.companies, #companies {
+    text-transform: uppercase;
+    
+}

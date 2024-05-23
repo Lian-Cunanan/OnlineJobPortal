@@ -224,7 +224,7 @@ header("location:../");
 
 									<div class="admin-section-title">
 									
-										<h2>Change Password</h2>
+										<h2 style="text-transform: uppercase;">Change Password</h2>
 	
 										
 									</div>

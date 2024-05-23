@@ -1492,6 +1492,7 @@ ul.list-col-3 li {
 section,
 .section {
     padding: 70px 0;
+    text-transform: uppercase;
 }
 
 section.sm,

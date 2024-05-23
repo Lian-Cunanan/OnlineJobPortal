@@ -237,7 +237,7 @@ $page = 1;
 
 									<div class="admin-section-title">
 									
-										<h2>Language Proficiency</h2>
+										<h2 style="text-transform: uppercase;">Language Proficiency</h2>
 					
 										
 									</div>
@@ -442,7 +442,7 @@ $page = 1;
 			
 				                    <div class="modal-header">
 					                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-					                 <h4 class="modal-title text-center">Add languages</h4>
+					                 <h4 class="modal-title text-center" style="text-transform: uppercase;">Add languages</h4>
 				                    </div>
 				
 				                    <div class="modal-body">

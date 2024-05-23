@@ -218,7 +218,7 @@ include 'constants/check-login.php';
                                 <div class="login-box-wrapper">
 							
                                 <div class="modal-header">
-                                <h4 class="modal-title text-center">Access your account</h4>
+                                <h4 class="modal-title text-center" style="text-transform: uppercase;">ACCESS YOUR ACCOUNT</h4>
                                 </div>
 
                                 <div class="modal-body">
@@ -248,7 +248,7 @@ include 'constants/check-login.php';
 						
 					          	<div class="col-sm-12 col-md-12">
 							    <div class="login-box-link-action">
-								<a data-toggle="modal" onclick = "reset_text()" href="#forgotPasswordModal">Forgot password?</a> 
+								
 							    </div>
 						      </div>	
 

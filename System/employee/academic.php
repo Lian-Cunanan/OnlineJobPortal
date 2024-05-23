@@ -237,7 +237,7 @@ $page = 1;
 
 									<div class="admin-section-title">
 									
-										<h2>Academic Qualifications</h2>
+										<h2 style="text-transform: uppercase;">Academic Qualifications</h2>
 					
 										
 									</div>
@@ -503,7 +503,7 @@ $page = 1;
 			
 				                    <div class="modal-header">
 					                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-					                 <h4 class="modal-title text-center">Add academic qualifications</h4>
+					                 <h4 class="modal-title text-center" style="text-transform: uppercase;">Add academic qualifications</h4>
 				                    </div>
 				
 				                    <div class="modal-body">
@@ -533,8 +533,8 @@ $page = 1;
 									<div class="col-sm-6 col-md-6">
 												
 									<div class="form-group">
-									<label>Country</label>
-									<select name="country" required class="selectpicker show-tick form-control" data-live-search="true">
+									
+									<select name="country" required class="selectpicker show-tick form-control" data-live-search="true" >
 									<option disabled value="">Select</option>
 						            <?php
 									$stmtb = $conn->prepare("SELECT * FROM tbl_countries ORDER BY country_name");

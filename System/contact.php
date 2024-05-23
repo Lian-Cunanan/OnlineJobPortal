@@ -174,7 +174,7 @@ include 'constants/check-login.php';
 						
 							<div class="section-title">
 							
-								<h2>Contact us for help</h2>
+								<h2 style="text-transform: uppercase;">CONTACT US FOR HELP</h2>
 								
 							</div>
 
@@ -243,7 +243,7 @@ include 'constants/check-login.php';
 										<h5>Email</h5><a href=""></a>
 								</li>
 								<li>
-										<h5>Phone Number</h5><a href="tel:+233 546 607 474">+233 546 607 474</a>
+										<h5>Phone Number</h5><a href="09335071990">09335071990</a>
 								</li>
 
 								<li>

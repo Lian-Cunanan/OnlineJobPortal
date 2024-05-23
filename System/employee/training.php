@@ -239,7 +239,7 @@ $page = 1;
 
 									<div class="admin-section-title">
 									
-										<h2>Training & Workshop</h2>
+										<h2 style="text-transform: uppercase;">Training & Workshop</h2>
 					
 										
 									</div>
@@ -447,7 +447,7 @@ $page = 1;
 			
 				                    <div class="modal-header">
 					                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-					                 <h4 class="modal-title text-center">Training & Workshop Attended</h4>
+					                 <h4 class="modal-title text-center" style="text-transform: uppercase;">Training & Workshop Attended</h4>
 				                    </div>
 				
 				                    <div class="modal-body">

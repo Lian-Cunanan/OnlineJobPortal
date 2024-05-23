@@ -198,7 +198,7 @@ header("location:../");
 
 									<div class="admin-section-title">
 									
-										<h2>Profile</h2>
+										<h2 style="text-transform: uppercase;">Profile</h2>
 										<p>Your last loged-in: <span class="text-primary"><?php echo "$mylogin"; ?></span></p>
 										
 									</div>

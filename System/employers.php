@@ -208,7 +208,7 @@ $page = 1;
 							<div class="GridLex-col-3_sm-12_xs-12">
 							
 								<div class="sorting-header">
-									<h3 class="sorting-title">Employers</h3>
+									<h3 class="sorting-title">EMPLOYERS</h3>
 								</div>
 								
 							</div>

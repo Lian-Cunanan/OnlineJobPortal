@@ -238,7 +238,7 @@ $page = 1;
 
 									<div class="admin-section-title">
 									
-										<h2>Referees</h2>
+										<h2 style="text-transform: uppercase;">Referees</h2>
 					
 										
 									</div>
@@ -454,7 +454,7 @@ $page = 1;
 			
 				                    <div class="modal-header">
 					                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-					                 <h4 class="modal-title text-center">Add Referee</h4>
+					                 <h4 class="modal-title text-center" style="text-transform: uppercase;">Add Referee</h4>
 				                    </div>
 				
 				                    <div class="modal-body">

@@ -197,7 +197,7 @@ $job_title = $row['title'];
 					<div class="sorting-wrappper">
 			
 						<div class="sorting-header">
-							<h3 class="sorting-title">Applicants for the job <?php echo "$job_title"; ?></</h3>
+							<h3 class="sorting-title" style="text-transform: uppercase;">Applicants for the job <?php echo "$job_title"; ?></</h3>
 						</div>
 						
 		

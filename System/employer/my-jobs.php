@@ -212,7 +212,7 @@ $page = 1;
 
 									<div class="admin-section-title">
 									
-										<h2>Posted Jobs</h2>
+										<h2 style="text-transform: uppercase;">Posted Jobs</h2>
 										
 									</div>
 									<?php require 'constants/check_reply.php'; ?>
