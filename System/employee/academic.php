@@ -191,11 +191,7 @@ $page = 1;
 										
 									</div>
 									
-									<div class="admin-user-action text-center">
-									
-										<a target="_blank" href="my_cv" class="btn btn-primary btn-sm btn-inverse">View my CV</a>
-										
-									</div>
+								
 									
 									<ul class="admin-user-menu clearfix">
 										<li>
