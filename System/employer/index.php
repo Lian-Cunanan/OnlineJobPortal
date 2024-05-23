@@ -1,3 +1,4 @@
+
 <!doctype html>
 <html lang="en">
 <?php 
@@ -29,7 +30,7 @@ header("location:../");
     <meta property="og:image:type" content="image/jpeg" />
     <meta property="og:image:width" content="500" />
     <meta property="og:image:height" content="300" />
-    <meta property="og:image:alt" content="Bwire Jobs" />
+    <meta property="og:image:alt" content="HireCity" />
     <meta property="og:description" content="Online Job Management / Job Portal" />
 
 	<link rel="shortcut icon" href="../images/ico/favicon.png">
@@ -125,7 +126,7 @@ header("location:../");
 				<div class="container">
 				
 					<ol class="breadcrumb-list booking-step">
-						<li><a href="../">HIre Me</a></li>
+						<li><a href="../">HireCity</a></li>
 						<li><span>Profile</span></li>
 					</ol>
 					
@@ -276,7 +277,7 @@ header("location:../");
 														<label>Street</label>
 														<input name="street" required type="text" class="form-control" value="<?php echo "$street"; ?>" placeholder="Enter your street">
 													</div>
-													
+													 	
 												</div>
 												
 												<div class="clear"></div>
@@ -341,6 +342,7 @@ header("location:../");
 													<div class="form-group">
 														<label>Email Address</label>
 														<input type="email" name="email" required class="form-control" value="<?php echo "$mymail"; ?>" placeholder="Enter your email">
+														
 													</div>
 													
 												</div>

@@ -43,7 +43,7 @@ $page = 1;
     <meta property="og:image:type" content="image/jpeg" />
     <meta property="og:image:width" content="500" />
     <meta property="og:image:height" content="300" />
-    <meta property="og:image:alt" content="Bwire Jobs" />
+    <meta property="og:image:alt" content="HireCity" />
     <meta property="og:description" content="Online Job Management / Job Portal" />
 
 	<link rel="shortcut icon" href="../images/ico/favicon.png">
@@ -139,7 +139,7 @@ $page = 1;
 				<div class="container">
 				
 					<ol class="breadcrumb-list booking-step">
-						<li><a href="../">Bwire Jobs</a></li>
+						<li><a href="../">HireCity</a></li>
 						<li><span>My Jobs</span></li>
 					</ol>
 					
