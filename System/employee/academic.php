@@ -3,7 +3,7 @@
 <?php 
 require '../constants/settings.php'; 
 require 'constants/check-login.php';
-
+$country = '';
 if ($user_online == "true") {
 if ($myrole == "employee") {
 }else{
@@ -345,6 +345,7 @@ $page = 1;
 									<select name="country" required class="selectpicker show-tick form-control" data-live-search="true">
 									<option disabled value="">Select</option>
 						            <?php
+									$country = '';
 									$stmtb = $conn->prepare("SELECT * FROM tbl_countries ORDER BY country_name");
                                     $stmtb->execute();
                                     $resultb = $stmtb->fetchAll();
@@ -352,7 +353,7 @@ $page = 1;
                                     foreach($resultb as $rowb)
                                     {
 										?>
-										<option <?php if ($ccountry == $rowb['country_name']) { print ' selected '; } ?> value="<?php echo $rowb['country_name']; ?>"><?php echo $rowb['country_name']; ?></option>
+										<option <?php if ($country == $rowb['country_name']) { print ' selected '; } ?> value="<?php echo $rowb['country_name']; ?>"><?php echo $rowb['country_name']; ?></option>
 										<?php
 		
 	                                }
@@ -539,6 +540,10 @@ $page = 1;
 									<select name="country" required class="selectpicker show-tick form-control" data-live-search="true">
 									<option disabled value="">Select</option>
 						            <?php
+									echo "Debug: country=$country<br>";
+									echo "Debug: resultb=";
+									print_r($resultb);
+
 									$stmtb = $conn->prepare("SELECT * FROM tbl_countries ORDER BY country_name");
                                     $stmtb->execute();
                                     $resultb = $stmtb->fetchAll();
@@ -546,7 +551,7 @@ $page = 1;
                                     foreach($resultb as $rowb)
                                     {
 										?>
-										<option <?php if ($ccountry == $rowb['country_name']) { print ' selected '; } ?> value="<?php echo $rowb['country_name']; ?>"><?php echo $rowb['country_name']; ?></option>
+										<option <?php if ($country == $rowb['country_name']) { print ' selected '; } ?> value="<?php echo $rowb['country_name']; ?>"><?php echo $rowb['country_name']; ?></option>
 										<?php
 		
 	                                }
