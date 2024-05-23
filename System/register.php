@@ -219,8 +219,8 @@ include 'constants/check-login.php';
 									<div class="col-sm-6 col-md-4">
 									
 										<div class="footer-about-us">
-											<h5 class="footer-title">About Hire Me</h5>
-											<p>Hire Me is a job portal, online job management system developed by BScpe 2-A for his project in february 2018.</p>
+											<h5 class="footer-title">About Hire City</h5>
+											<p>Hire City is a job portal, online job management system developed by BsCpE 2-A This project was made in March 2024.</p>
 										
 										</div>
 
@@ -246,11 +246,11 @@ include 'constants/check-login.php';
 							
 							<div class="col-sm-12 col-md-3 mt-30-sm">
 							
-								<h5 class="footer-title">Hire Me Contact</h5>
+								<h5 class="footer-title">Hire City Contact</h5>
 								
-								<p>Address : Don Honorio Ventura State university</p>
-								<p>Email : <a href="Bscpe2-A@gmail.com">Bscpe2-A@gmail.com</a></p>
-								<p>Phone : <a href="tel:+233546607474">+233 546 607 474</a></p>
+								<p>Address : DON HONORIO VENTURA STATE UNIVERSITY</p>
+								<p>Email : <a href="Bscpe2-A@gmail.com">HireCity@gmail.com</a></p>
+								<p>Phone : <a href="tel:+233546607474">+09335071990</a></p>
 								
 
 							</div>
@@ -277,7 +277,7 @@ include 'constants/check-login.php';
 							<div class="col-sm-4 col-md-4">
 							
 								<ul class="bottom-footer-menu">
-									<li><a >Developed by Bscpe 2-A</a></li>
+									<li><a >Developed by BsCpE 2-A</a></li>
 								</ul>
 							
 							</div>
@@ -285,7 +285,7 @@ include 'constants/check-login.php';
 							<div class="col-sm-4 col-md-4">
 								<ul class="bottom-footer-menu for-social">
 									<li><a href="<?php echo "$tw"; ?>"><i class="ri ri-twitter" data-toggle="tooltip" data-placement="top" title="twitter"></i></a></li>
-									<li><a href="<?php echo "$fb"; ?>"><i class="ri ri-facebook" data-toggle="tooltip" data-placement="top" title="facebook"></i></a></li>
+									<li><a href="https://www.facebook.com/lian.cunanan.50"><i class="ri ri-facebook" data-toggle="tooltip" data-placement="top" title="facebook"></i></a></li>
 									<li><a href="<?php echo "$ig"; ?>"><i class="ri ri-instagram" data-toggle="tooltip" data-placement="top" title="instagram"></i></a></li>
 								</ul>
 							</div>
@@ -300,11 +300,11 @@ include 'constants/check-login.php';
 			
 		</div>
 
-
 	</div>
+<div id="back-to-top">
+   <a href="#"><i class="ion-ios-arrow-up"></i></a>
+</div>
 
-
-	</div> 
 <script type="text/javascript">
 function val(){
 if(frm.password.value == "")

@@ -10,7 +10,7 @@ include 'constants/check-login.php';
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<title>Hire Me</title>
+	<title>Hire City</title>
 	<meta name="description" content="Online Job Management / Job Portal" />
 	<meta name="keywords" content="job, work, resume, applicants, application, employee, employer, hire, hiring, human resource management, hr, online job management, company, worker, career, recruiting, recruitment" />
 	<meta name="author" content="BwireSoft">
@@ -547,7 +547,7 @@ include 'constants/check-login.php';
 									
 										<div class="footer-about-us">
 											<h5 class="footer-title">About Hire City</h5>
-											<p>Hire Me is a job portal, online job management system developed by BsCpE 2-A This project was made in March 2024.</p>
+											<p>Hire City is a job portal, online job management system developed by BsCpE 2-A This project was made in March 2024.</p>
 										
 										</div>
 
