@@ -312,7 +312,7 @@ header("location:./");
 												<li>
 												<h5><?php echo $row['course']; ?> </h5>
 												<p class="text-muted font-italic">Level - <?php echo $row['level']; ?> , <?php echo $row['timeframe']; ?><span class="font600 text-primary"> <?php echo $row['institution']; ?></span> <?php echo $row['country']; ?></p>
-												<p><a target="_blank" class="btn btn-primary btn-sm mb-5 mb-0-sm" href="view-certificate.php?id=<?php echo $row['id']; ?>">View Certificate</a></p>
+												
 												</li>
 												<?php
 	                                            }
