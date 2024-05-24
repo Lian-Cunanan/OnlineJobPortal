@@ -1,6 +1,16 @@
 <?php
 require '../constants/settings.php';
-date_default_timezone_set($default_timezone);
+if (isset($default_timezone) && !empty($default_timezone)) {
+    if (date_default_timezone_set($default_timezone) === false) {
+        // If setting the provided timezone fails, fallback to a default timezone
+        date_default_timezone_set('UTC');
+        error_log("Failed to set timezone to '$default_timezone'. Falling back to 'UTC'.");
+    }
+} else {
+    // Handle the case where $default_timezone is not set or is empty
+    date_default_timezone_set('UTC'); // Default to UTC if not set
+    error_log("Timezone was not set or is empty. Defaulting to 'UTC'.");
+}
 $apply_date = date('m/d/Y');
 
 session_start();
