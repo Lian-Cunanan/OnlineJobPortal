@@ -250,9 +250,9 @@ include 'constants/check-login.php';
 										<h5>Social Networks</h5>
 										<div class="contact-social">
 										
-											<a href="<?php echo "$fb"; ?>" data-toggle="tooltip" data-placement="top" title="Facebook"><i class="fa fa-facebook"></i></a>
-											<a href="<?php echo "$tw"; ?>" data-toggle="tooltip" data-placement="top" title="Twitter"><i class="fa fa-twitter"></i></a>
-											<a href="<?php echo "$ig"; ?>" data-toggle="tooltip" data-placement="top" title="Instagram"><i class="fa fa-instagram"></i></a>
+											<a href="https://www.facebook.com/HireCity/" data-toggle="tooltip" data-placement="top" title="Facebook"><i class="fa fa-facebook"></i></a>
+											<a href="https://x.com/Hire__City?mx=2" data-toggle="tooltip" data-placement="top" title="Twitter"><i class="fa fa-twitter"></i></a>
+											<a href="https://www.instagram.com/hire_city/" data-toggle="tooltip" data-placement="top" title="Instagram"><i class="fa fa-instagram"></i></a>
 										
 										</div>
 								</li>
@@ -313,7 +313,7 @@ include 'constants/check-login.php';
 								<h5 class="footer-title">Hire City Contact</h5>
 								
 								<p>Address : DON HONORIO VENTURA STATE UNIVERSITY</p>
-								<p>Email : <a href="Bscpe2-A@gmail.com">HireCity@gmail.com</a></p>
+
 								<p>Phone : <a href="tel:+233546607474">+09335071990</a></p>
 								
 
@@ -348,9 +348,9 @@ include 'constants/check-login.php';
 							
 							<div class="col-sm-4 col-md-4">
 								<ul class="bottom-footer-menu for-social">
-									<li><a href="<?php echo "$tw"; ?>"><i class="ri ri-twitter" data-toggle="tooltip" data-placement="top" title="twitter"></i></a></li>
-									<li><a href="https://www.facebook.com/lian.cunanan.50"><i class="ri ri-facebook" data-toggle="tooltip" data-placement="top" title="facebook"></i></a></li>
-									<li><a href="<?php echo "$ig"; ?>"><i class="ri ri-instagram" data-toggle="tooltip" data-placement="top" title="instagram"></i></a></li>
+									<li><a href="https://x.com/Hire__City?mx=2"><i class="ri ri-twitter" data-toggle="tooltip" data-placement="top" title="twitter"></i></a></li>
+									<li><a href="https://www.facebook.com/HireCity/"><i class="ri ri-facebook" data-toggle="tooltip" data-placement="top" title="facebook"></i></a></li>
+									<li><a href="https://www.instagram.com/hire_city/"><i class="ri ri-instagram" data-toggle="tooltip" data-placement="top" title="instagram"></i></a></li>
 								</ul>
 							</div>
 						

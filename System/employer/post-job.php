@@ -522,6 +522,25 @@ header("location:../");
    <a href="#"><i class="ion-ios-arrow-up"></i></a>
 </div>
 
+<script>
+        function validateDate(input) {
+            const datePattern = /^(0[1-9]|[12][0-9]|3[01])\/(0[1-9]|1[0-2])\/\d{4}$/;
+            return datePattern.test(input.value);
+        }
+
+        function validateForm(event) {
+            const dateInput = document.querySelector('input[name="deadline"]');
+            if (!validateDate(dateInput)) {
+                alert("Please enter the date in dd/mm/yyyy format.");
+                event.preventDefault(); // Prevent form submission if date is invalid
+            }
+        }
+
+        document.addEventListener('DOMContentLoaded', function() {
+            const form = document.querySelector('form');
+            form.addEventListener('submit', validateForm);
+        });
+    </script>
 
 <script type="text/javascript" src="../js/jquery-1.11.3.min.js"></script>
 <script type="text/javascript" src="../js/jquery-migrate-1.2.1.min.js"></script>
