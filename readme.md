@@ -1,4 +1,4 @@
-# The Offical Member of the Group are Lian Cunanan And anonymouse Person secret xD
+# The Offical Member of the Group are Lian Cunanan And Cantara
 
 # Online Job Portal
 
